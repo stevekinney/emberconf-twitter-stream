@@ -1,0 +1,28 @@
+* {
+  box-sizing: border-box;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+}
+
+.ember-application {
+  background: url('/bg-light.png');
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+header {
+  color: rgb(255, 255, 255);
+}
+
+header img {
+  max-width: 200px;
+  display: block;
+  margin: auto;
+}
+
+.tweet h3 {
+  font-weight: bold;
+}
